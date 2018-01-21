@@ -60,7 +60,7 @@ public class SampleStepdefinition {
 			java.lang.String actualtext = driver.findElement(By.xpath("//*[@id=\"BirthdayLabel\"]")).getText();
 			System.out.println(actualtext);
 			
-			java.lang.String expectedtext = "Birthday";
+			java.lang.String expectedtext = "Bthday";
 			
 			assertEquals(expectedtext, actualtext);
    
