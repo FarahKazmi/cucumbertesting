@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [SeleniumcucumberSuite]">
+  <test name="Cucumber(failed)">
+    <classes>
+      <class name="com.selenium.runner.Runner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- com.selenium.runner.Runner -->
+    </classes>
+  </test> <!-- Cucumber(failed) -->
+</suite> <!-- Failed suite [SeleniumcucumberSuite] -->

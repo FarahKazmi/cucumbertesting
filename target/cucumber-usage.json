@@ -1,0 +1,56 @@
+[
+  {
+    "source": "^I enter the details$",
+    "steps": [
+      {
+        "name": "I enter the details",
+        "aggregatedDurations": {
+          "average": 6.156032766,
+          "median": 6.156032766
+        },
+        "durations": [
+          {
+            "duration": 6.156032766,
+            "location": "MyFeature.feature:26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I am on the gmail Registration page$",
+    "steps": [
+      {
+        "name": "I am on the gmail Registration page",
+        "aggregatedDurations": {
+          "average": 31.060606476,
+          "median": 31.060606476
+        },
+        "durations": [
+          {
+            "duration": 31.060606476,
+            "location": "MyFeature.feature:25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I validate the text$",
+    "steps": [
+      {
+        "name": "I validate the text",
+        "aggregatedDurations": {
+          "average": 0.068648824,
+          "median": 0.068648824
+        },
+        "durations": [
+          {
+            "duration": 0.068648824,
+            "location": "MyFeature.feature:27"
+          }
+        ]
+      }
+    ]
+  }
+]

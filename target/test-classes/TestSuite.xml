@@ -1,0 +1,10 @@
+<suite name="SeleniumcucumberSuite"  thread-count="1"
+	verbose="1">
+
+	<test name="Cucumber" junit="false" preserve-order="true">
+		<classes>
+			<class name="com.selenium.runner.Runner" />
+		</classes>
+	</test>
+
+</suite>

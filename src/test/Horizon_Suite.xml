@@ -1,0 +1,10 @@
+<suite name="HorizonSuite"  thread-count="1"
+	verbose="1">
+
+	<test name="Horizon_Application" junit="false" preserve-order="true">
+		<classes>
+			<class name="com.horizon.runner.ExtentReportRunner" />
+		</classes>
+	</test>
+
+</suite>
